@@ -15,7 +15,7 @@ function updateImage() {
         const imagePath = `images/image${imageNumber}.jpg`;
         const imageLinks = [
             'https://www.youtube.com/watch?v=y6120QOlsfU',  // Link for image 1
-            'https://link2.com',  // Link for image 2
+            '',  // Link for image 2
             // Add links for all images, use '#' or '' for no link
         ];
 
