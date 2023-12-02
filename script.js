@@ -12,7 +12,7 @@ function updateImage() {
 
     if (diffDays <= 22) {
         const imageNumber = diffDays + 1;
-        const imagePath = `path/to/images/image${imageNumber}.png`; // Update path
+        const imagePath = `path/to/images/image${imageNumber}.jpg`; // Update path
         document.getElementById('dailyImage').src = imagePath;
     }
 }
